@@ -10,6 +10,14 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zendama/es6hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zendama/es6hello/issues"
+  },
+  "homepage": "https://github.com/Zendama/es6hello#readme",
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
